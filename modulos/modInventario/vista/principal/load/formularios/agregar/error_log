@@ -1,0 +1,2 @@
+[22-Dec-2020 11:42:23 America/El_Salvador] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/dentalmeddepot/public_html/sistema/modulos/modInventario/vista/principal/load/formularios/agregar/productos.php on line 144
+[22-Dec-2020 11:43:35 America/El_Salvador] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/dentalmeddepot/public_html/sistema/modulos/modInventario/vista/principal/load/formularios/agregar/productos.php on line 144

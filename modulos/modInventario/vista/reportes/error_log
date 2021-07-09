@@ -1,0 +1,1 @@
+[22-Dec-2020 11:45:15 America/El_Salvador] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/dentalmeddepot/public_html/sistema/modulos/modInventario/vista/reportes/fpdf/fpdf.php on line 12
